@@ -2,6 +2,7 @@
 
 ### Introduction
 This project is about software engineering. It is a maze game project by creating an engine for generating explorable worlds. In this project, we will need to generate a random maze and add some interactive features to the game. 
+
 ![Screen Shot 2021-09-24 at 5 37 44 PM](https://user-images.githubusercontent.com/47238768/134751943-baae613b-040d-4af5-9f52-5d11e4bb3b18.png)
 
 ### Features 
